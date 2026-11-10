@@ -1,0 +1,4 @@
+# Example 1: unique solution
+10x1 + 5x2 = 5
+4x2 + 3x3 = 10
+x1 + 6x3 = 12
