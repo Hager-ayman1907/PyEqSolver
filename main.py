@@ -35,3 +35,5 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
+# python -m unittest discover -s tests -v

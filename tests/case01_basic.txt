@@ -1,3 +1,4 @@
 10x1 + 5x2 = 5
 4x2 + 3x3 = 10
 x1 + 6x3 = 12
+python -m unittest discover -s tests -v
